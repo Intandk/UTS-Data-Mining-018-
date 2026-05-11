@@ -1,4 +1,5 @@
 # UTS Data Mining
+Intan Dwi Kartika (2304020018) - Rombel IC
 
 ## Prediksi Kualitas Wine Menggunakan Random Forest Classifier
 
